@@ -2,6 +2,7 @@ Corrida feliz, é um jogo soloplayer, em que o jogador precisa simular uma corri
 
 VÍDEO DE DEMONSTRAÇÃO DO JOGO (PARA CHECAGEM DE FUNCIONALIDADE - VÍDEO CURTO)
 Abrir vídeo (Youtube)
+https://www.youtube.com/watch?v=L-PxiXW1uvs
 
 INSTALAÇÃO
 Para abrir a interface do jogo, após a instalação das dependências, é necessario iniciar o arquivo jogov2.py.
@@ -11,8 +12,11 @@ Para iniciar o jogo, os jogadores devem clicar no botão espaço. Em seguida, o 
 
 
 CONTROLES
+
 "Space" : Iniciar 
+
 ↣ : Deslocar para a direita
+
 ↢ : Deslocar para a esquerda
 
 
