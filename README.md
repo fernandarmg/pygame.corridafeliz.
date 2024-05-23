@@ -25,7 +25,7 @@ Fernanda Ribeiro de Mendonça Gouveia
 Maria Franco Diniz Junqueira
 
 
-https://youtu.be/XDM6UmnMCDE?si=Rq4LTiGqMb3-HLAK
+https://youtu.be/qeZcCeXAbvw
 DEPENDÊNCIAS
 Para que o jogo funcione, é necessário importar todas as bibliotecas mencionadas abaixo:
 
